@@ -7419,11 +7419,11 @@ footer.footer-small {
 }
 img.img-footer {
     max-width: 180px;
-    margin-bottom: 2rem;
+    margin-bottom: 2rem !important;
 }
 img.img-footer.small {
     margin: 0;
-    max-width:150px;
+    max-width:300px;
     position: relative;
     top: 2px;
 }
