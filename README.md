@@ -9,9 +9,9 @@ In order to make a hassle-free environment, I implore you all (_while contributi
 
 Happy Submissions
 
-## Contribution Guidelines🏗
+## Contribution Guidelines—
 
-Are we missing any of your favorite features, which you think you can add to it❄1�7 We invite you to contribute to this project and make it better. 
+Are we missing any of your favorite features, which you think you can add to itâ„1¤7 We invite you to contribute to this project and make it better. 
 To start contributing, follow the below guidelines: 
 
 **1.**  Fork [this](https://github.com/zuhairabs/kccemsr) repository.
@@ -87,7 +87,7 @@ git push -u origin <your_branch_name>
 <table>
   <tbody><tr>
     <td align="center"><a href="https://github.com/urvashi-code1255"><img alt="avatar" src="https://avatars.githubusercontent.com/u/41848715?v=4" width="130px;"><br><sub><b>
- Zuhair Abbas </b></sub></a><br><a href="" title="Developer">💻 </a></td></a></td>
+ Zuhair Abbas </b></sub></a><br><a href="" title="Developer"></a></td></a></td>
   </tr>
 </tbody></table>
 
@@ -96,6 +96,6 @@ git push -u origin <your_branch_name>
 <table>
   <tbody><tr>
     <td align="center"><a href="https://github.com/urvashi-code1255"><img alt="avatar" src="https://avatars.githubusercontent.com/u/41848715?v=4" width="130px;"><br><sub><b>
- Zuhair Abbas </b></sub></a><br><a href="" title="Developer">💻 </a></td></a></td>
+ Zuhair Abbas </b></sub></a><br><a href="" title="Developer"></a></td></a></td>
   </tr>
 </tbody></table>
