@@ -7725,10 +7725,10 @@ footer.skin-dark-footer ul.footer-bottom-social li a:hover, footer.skin-dark-foo
 	.authi_125 {
 		margin-bottom: 1rem;
 	}
-	.liop_wraps {
+	/*.liop_wraps {
 		display: flex;
 		flex-wrap: wrap;
-	}
+	}*/
 	.liop_wraps_01 {
 		margin-bottom: 10px;
 		position: relative;
