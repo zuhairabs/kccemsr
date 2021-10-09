@@ -2315,7 +2315,7 @@ nav a {
     color:#333d46 !important;
 }
 .nav-brand img {
-    max-width:150px;
+    max-width:250px;
 	position: relative;
     top:0px;
 }
@@ -2594,7 +2594,7 @@ li._my_prt_list a span {
     margin-left:25px;
 }
 .nav-brand img {
-    max-width:120px;
+    max-width:150px;
     position: relative;
     top: 2px;
 }
@@ -8067,7 +8067,7 @@ footer.skin-dark-footer ul.footer-bottom-social li a:hover, footer.skin-dark-foo
 }
 @media (max-width:375px) {
 	.nav-brand img {
-		max-width: 95px;
+		max-width: 120px;
 		position: relative;
 		top: 2px;
 	}
